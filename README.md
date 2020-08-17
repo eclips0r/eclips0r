@@ -1,6 +1,6 @@
 ### Sup, I'm a CS student based in Austria and interested in computers and astrophysics
 
-Currently working on a GUI project in java with swing mostly to get some practice. Full code is going up when its finished
+Currently working on a GUI project in java using swing mostly to get some practice. Full code is going up when its finished
 
 
 
