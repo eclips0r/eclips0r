@@ -1,6 +1,6 @@
-### Sup, I'm a CS student based in Austria and interested in computers and astrophysics
+### CS student - interested in computers and astrophysics
 
-Currently working on a GUI login project in Java using swing and I am experimenting a bit with automated selenium tests.
+Currently working on a GUI project in Java using swing and I am experimenting a bit with automated selenium tests.
 
 
 ### Working with:
