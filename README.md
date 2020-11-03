@@ -1,6 +1,6 @@
 ### CS student - interested in computers and astrophysics
 
-Currently working on a GUI project in Java using swing and I am experimenting a bit with automated selenium tests.
+Currently working on a GUI project in Java using swing while handling uni stuff
 
 
 ### Working with:
